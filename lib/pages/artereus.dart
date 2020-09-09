@@ -48,7 +48,7 @@ class _StatsState extends State<Stats> {
                 style: TextStyle(
                   color: Colors.tealAccent,
                   letterSpacing: 2.0,
-                  fontSize: 27.0,
+                  fontSize: 24.0,
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -66,7 +66,7 @@ class _StatsState extends State<Stats> {
                 style: TextStyle(
                   color: Colors.tealAccent,
                   letterSpacing: 2.0,
-                  fontSize: 27.0,
+                  fontSize: 24.0,
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -103,7 +103,7 @@ class _StatsState extends State<Stats> {
                 style: TextStyle(
                   color: Colors.tealAccent,
                   letterSpacing: 2.0,
-                  fontSize: 25.0,
+                  fontSize: 24.0,
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -121,7 +121,7 @@ class _StatsState extends State<Stats> {
                 style: TextStyle(
                   color: Colors.tealAccent,
                   letterSpacing: 2.0,
-                  fontSize: 27.0,
+                  fontSize: 24.0,
                   fontWeight: FontWeight.bold,
                 ),
               ),

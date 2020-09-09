@@ -8,11 +8,11 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  Statistics Adnan = Statistics( Name:'Adnan', DP: 'assets/dp.jpg' ,Number: '8808681860' , address: 'Shadab Colony ,Lucknow ' , studentNumber: '1913113' ,Email: 'adnanali@gmail.com');
-  Statistics Aman = Statistics( Name:'Aman', DP: 'assets/dp.jpg' ,Number: '7388505824' , address: 'Ashok Vihar ,Sitapur' , studentNumber: '1913453' ,Email: 'bhargav@gmail.com');
-  Statistics Akshat = Statistics( Name:'Akshat', DP: 'assets/dp.jpg' ,Number: '9008329474' , address: 'Mayur Vihar ,Dehi' , studentNumber: '1903847' ,Email: 'akshat@gmail.com');
-  Statistics Abhikant = Statistics( Name:'Abhikant', DP: 'assets/dp.jpg' ,Number: '8009237489' , address: 'Vaishali ,Ghaziabad' , studentNumber: '1970347' ,Email: 'abhikant@gmail.com');
-  Statistics Aditya = Statistics( Name:'Aditya', DP: 'assets/dp.jpg' ,Number: '9887461108' , address: 'Sector-34 ,Noida' , studentNumber: '1977901' ,Email: 'aditya@gmail.com');
+  Statistics Adnan = Statistics( Name:'Adnan', DP: 'assets/adnan.jfif' ,Number: '8808681860' , address: 'Shadab Colony ,Lucknow ' , studentNumber: '1913113' ,Email: 'adnanali@gmail.com');
+  Statistics Aman = Statistics( Name:'Aman', DP: 'assets/aman.jfif' ,Number: '7388505824' , address: 'Ashok Vihar ,Sitapur' , studentNumber: '1913453' ,Email: 'bhargav@gmail.com');
+  Statistics Akshat = Statistics( Name:'Akshat', DP: 'assets/akshat.jfif' ,Number: '9008329474' , address: 'Mayur Vihar ,Dehi' , studentNumber: '1903847' ,Email: 'akshat@gmail.com');
+  Statistics Abhikant = Statistics( Name:'Abhikant', DP: 'assets/abhikant.png' ,Number: '8009237489' , address: 'Vaishali ,Ghaziabad' , studentNumber: '1970347' ,Email: 'abhikant@gmail.com');
+  Statistics Aditya = Statistics( Name:'Aditya', DP: 'assets/aditya.jfif' ,Number: '9887461108' , address: 'Sector-34 ,Noida' , studentNumber: '1977901' ,Email: 'aditya@gmail.com');
 
 
 
